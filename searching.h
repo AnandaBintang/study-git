@@ -1,0 +1,1 @@
+int sequential_search(int *list, int n, int key);
